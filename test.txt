@@ -1,0 +1,4 @@
+This is a modification to test.txt as a test.
+This is for step 16 of Lab 7, section 6.
+
+Alex Smith, CMPT120 Intro to Programming.
